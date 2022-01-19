@@ -1,0 +1,16 @@
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.exe
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.deps.json
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.runtimeconfig.json
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.runtimeconfig.dev.json
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.dll
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\ref\TP3Application.dll
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\bin\Debug\net5.0\TP3Application.pdb
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.csprojAssemblyReference.cache
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.AssemblyInfoInputs.cache
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.AssemblyInfo.cs
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.csproj.CoreCompileInputs.cache
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.dll
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\ref\TP3Application.dll
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.pdb
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\Projet\TP3Application\TP3Application\obj\Debug\net5.0\TP3Application.genruntimeconfig.cache
